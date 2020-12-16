@@ -7,7 +7,7 @@ in markdown. -->
   <img src=".images/top.jpg" alt="Decorative image">
   <br>
   <br>
-  <span>Project Name</span>
+  <span>coreLang</span>
   <br>
 
   <!-- Below, there are 4 small button-like images. These are called "badges"
@@ -17,30 +17,15 @@ in markdown. -->
   tag. Edit the link t point to where you want. Delete the badges that you don't
   need. -->
 
-  <a href="https://www.gnu.org/licenses/gpl-3.0.html">
-    <img src="https://img.shields.io/badge/license-gpl_v3-be0000?style=flat" />
+  <a href="https://www.apache.org/licenses/LICENSE-2.0">
+    <img src="https://img.shields.io/badge/license-Apache%202-blue" />
   </a>
 
-  <a href="https://img.shields.io/badge/license-gpl_v3-be0000">
-    <!-- You can edit the `Overleaf-paper` part in the next link to change the
-         text of the created badge. -->
-    <img
-    src="https://img.shields.io/badge/Overleaf-paper-138a07?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABfVBMVEUAAABIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDwAAAAcciVhAAAAfXRSTlMAAA8mNj9EQz0yIQhVz+71+/79+fPrZU3k96yDmo36wQEos1pWyR+9tSrjwjkSoF9Fezo3jPZQSm6Til0RmR4Qiysk8YFcDe30kdO8aCPygkwpCtkU3QXwnxu2WXw4R3MM7FRICxZTUQPaBAfnqBXVE2MYZNvEtIQX+MU7S/Pc0IMAAAABYktHRACIBR1IAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH5AYYFRgQ3q2QQgAAAX1JREFUOMutUldbwkAQ3At2UQJiiQ1FxYaoaGyo2Dt27Nh7FxuK89+9iH4muTz5uS/J3czuzO4t0f8GY0SSLS09IzMrOyeXmIAT2fPyHbITcBW4C4vECsUl+A4FKDVXYKzsBy6vqISnSsivTqHemto6XsLHBAP1GtwgNTZp32qLHvh1s78l8FWm1aKFNqCdgooGOzpIFOiEGiR7V3dPb1+o3yJ/AG5psIBnD4QtZzgEDI+MfsmrYyR2yPXHJ6DmT05plGlxxDOYJe+cLSxFQvOcsWC2UAwsLkU0Z4yWV/iUVk2EKEBrKeecsQ5sGNvYVLCl09vmIsYCfhk7Okc5biBmIOy6sKc77h8AhwbCkQsB3fGYE+wGQkyGQyfh4xJBA+FEBU5/bZ9xk+dGlx7g4vLncHUN3Jhe65bnrFxqO81Y7h1f2XvzqLVtjD7EieKPT/y3j5n3lZ6hixer9379xReICfvCaySeFdnplN/eE+I6pRgUTy5+JBNkjf89PgFCeG27lghtGAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wNi0yNFQyMToyNDoxNiswMDowMFNIgJYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDYtMjRUMjE6MjQ6MTYrMDA6MDAiFTgqAAAAAElFTkSuQmCC"
-    />
-  </a>
-
-  <a href="https://www.duckduckgo.com">
-    <img src="https://img.shields.io/badge/license-gpl_v3-be0000?style=flat" />
-  </a>
-
-  <a href="https://img.shields.io/badge/license-gpl_v3-be0000">
-    <img src="https://img.shields.io/badge/Overleaf-paper-138a07?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABfVBMVEUAAABIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDxIrDwAAAAcciVhAAAAfXRSTlMAAA8mNj9EQz0yIQhVz+71+/79+fPrZU3k96yDmo36wQEos1pWyR+9tSrjwjkSoF9Fezo3jPZQSm6Til0RmR4Qiysk8YFcDe30kdO8aCPygkwpCtkU3QXwnxu2WXw4R3MM7FRICxZTUQPaBAfnqBXVE2MYZNvEtIQX+MU7S/Pc0IMAAAABYktHRACIBR1IAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH5AYYFRgQ3q2QQgAAAX1JREFUOMutUldbwkAQ3At2UQJiiQ1FxYaoaGyo2Dt27Nh7FxuK89+9iH4muTz5uS/J3czuzO4t0f8GY0SSLS09IzMrOyeXmIAT2fPyHbITcBW4C4vECsUl+A4FKDVXYKzsBy6vqISnSsivTqHemto6XsLHBAP1GtwgNTZp32qLHvh1s78l8FWm1aKFNqCdgooGOzpIFOiEGiR7V3dPb1+o3yJ/AG5psIBnD4QtZzgEDI+MfsmrYyR2yPXHJ6DmT05plGlxxDOYJe+cLSxFQvOcsWC2UAwsLkU0Z4yWV/iUVk2EKEBrKeecsQ5sGNvYVLCl09vmIsYCfhk7Okc5biBmIOy6sKc77h8AhwbCkQsB3fGYE+wGQkyGQyfh4xJBA+FEBU5/bZ9xk+dGlx7g4vLncHUN3Jhe65bnrFxqO81Y7h1f2XvzqLVtjD7EieKPT/y3j5n3lZ6hixer9379xReICfvCaySeFdnplN/eE+I6pRgUTy5+JBNkjf89PgFCeG27lghtGAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wNi0yNFQyMToyNDoxNiswMDowMFNIgJYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDYtMjRUMjE6MjQ6MTYrMDA6MDAiFTgqAAAAAElFTkSuQmCC" />
-  </a>
-  <br>
+<br>
 </h1>
 
 <p align="justify">
-  A README template for projects of the SSAS group.
+  The project to create coreLang, an abstract MAL-based Domain Specific Language (DSL) for the generic IT domain.
 <p>
 
 ## Table of contents
@@ -52,72 +37,36 @@ in markdown. -->
 
 ## Quick Info
 
-- Supervisor: [supervisor's full name](link-to-online-profile)
-- Active members:
-  - [member 1](link-to-online-profile)
-- Past members:
-  - [First Last](link-to-online-profile)
-- Status: running :green_circle: (or pending :yellow_circle:, completed :orange_circle:)
-- Timeline: [VT-20](self-link-to github-project/milestones)
-- Parent project: [name-of-umbrella-project](link-to-umbrella-project)
+- Active members (from KTH):
+  - Sotirios Katsikeas
+  - Simon Hacks
+  - Mathias Ekstedt
+  - Robert Lagerström
+- External collaborators:
+  - foreseeti AB
+- Status: running :green_circle:
+- Timeline: 2020-Ongoing
 
 ### Project links
 
-- post here a list of links to project assets that are not located in the github
-  repo
-- [Overleaf project](link-to-overleaf-project)
-- [dropbox folder for large files](link-to-dropbox-folder)
-- [other link](#)
+- [Code repository](https://github.com/mal-lang/coreLang)
 
 ## Description
 
-(This section should hold your project's detailed description)
+Cyber-attacks on IT infrastructures can have disastrous consequences for individuals, regions, as well as whole nations. In order to respond to these threats, the cyber security assessment of IT infrastructures can foster a higher degree of security and resilience against cyber-attacks. Therefore, the use of attack simulations based on system architecture models is proposed. To reduce the effort of creating new attack graphs for each system under assessment, domain-specific languages (DSLs) can be employed. DSLs codify the common attack logics of the considered domain. Previously, MAL (the Meta Attack Language) was proposed, which serves as a framework to develop DSLs and generate attack graphs for modeled infrastructures. In this article, we propose coreLang as a MAL-based DSL for modeling IT infrastructures and analyzing weaknesses related to known attacks. To model domain-specific attributes, we studied existing cyber-attacks to develop a comprehensive language, which was iteratively verified through a series of brainstorming sessions with domain modelers. Finally, this first version of the language was validated against known cyber-attack scenarios.
 
-The idea is to use github.com as a central point of reference for our group's
-projects. A github.com organization ([KTH-SSAS](https://github.com/KTH-SSAS))
-has been created, where all SSAS members are added to. The organization is
-organized in teams that reflect the actual "teams" and collaborations that exist
-in the group.
-
-Each team will create one or more git repos on github.com under the KTH-SSAS
-organization where project assets (e.g. tex documents, small files, code, etc)
-is added. Github also has an issue tracker that can be used to keep track of the
-pending work in a visible way, where other team members or external
-collaborators can keep track of the work ahead and discuss.
-
-This README is meant as a common template for all KTH-SSAS projects. The aim is
-to have a uniform look and feel that is also usable and productive. When you use
-this template, try to conform with its structure. __If it is not
-sufficient/proper for you project, of course feel free to deviate or ignore
-it.__ Or, if you have suggestions, create a [new
-issue](https://github.com/KTH-SSAS/skeleton/issues/new) or [pull
-request](https://github.com/KTH-SSAS/skeleton/pull/new).
-
-To use this skeleton repository as a template for your project, simply create a new repository and select this repo as the template:
-
-
-![Screenshot_20201003_112921](https://user-images.githubusercontent.com/11805218/94988207-dc43c300-056b-11eb-9ae7-7041bd438133.png)
-
-See [this repo](https://github.com/KTH-SSAS/threatmove-iso-21434) for
-an example.
 
 ## Work Products
+- [x] First version of coreLang
+- [x] First revised version of coreLang
+- [x] Conference paper presenting coreLang (GraMSec 2020)
+- [ ] MITRE ATT&CK mapping to coreLang
+- [ ] Journal article about the revised coreLang and evaluation
 
-- [ ] A checklist of pending and completed work products of the project, i.e.
-  project deliverables.
-- [x] An already produced deliverable is marked with a check.
-- [x] If the deliverable can be accessed online (or in the github repo) add
-  a [link](#) to it. For example, if the project includes the production of
-  a paper, link to the published paper in a journal.
-- [ ] If the deliverable is not yet delivered, leave the checkbox unchecked.
 
 ## Resources
-- Add here in a bullet list to resources relevant to the project, for instance:
-- [ISO-21434](https://www.iso.org/standard/70918.html) - PDF needs to be purchased
-- [vehicleLang](https://github.com/mal-lang/vehicleLang)
 - [MAL - Meta Attack  Language](https://mal-lang.org)
 - [SecuriCAD](https://foreseeti.com)
-- [ThreatMOVE project](https://autosec.se/projects/)
 
 <br>
 
