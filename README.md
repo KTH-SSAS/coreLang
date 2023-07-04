@@ -39,10 +39,14 @@ in markdown. -->
 
 - Active members (from KTH):
   - Sotirios Katsikeas
-  - Simon Hacks
   - Mathias Ekstedt
+  - Andrei Buhaiu
+- Past KTH contributors
+  - Simon Hacks
   - Robert Lagerström
-- External collaborators:
+  - Preetam Mukherjee
+  - Zeeshan Afzal
+- Past external collaborators:
   - foreseeti AB
 - Status: running :green_circle:
 - Timeline: 2020-Ongoing
@@ -60,8 +64,8 @@ Cyber-attacks on IT infrastructures can have disastrous consequences for individ
 - [x] First version of coreLang
 - [x] First revised version of coreLang
 - [x] Conference paper presenting coreLang (GraMSec 2020)
-- [ ] MITRE ATT&CK mapping to coreLang
-- [ ] Journal article about the revised coreLang and evaluation
+- [x] MITRE ATT&CK mapping to coreLang
+- [ ] Journal article about the revised coreLang and evaluation against MITRE ATT&CK
 
 
 ## Resources
