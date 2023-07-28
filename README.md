@@ -46,6 +46,7 @@ in markdown. -->
   - Robert Lagerström
   - Preetam Mukherjee
   - Zeeshan Afzal
+  - Ismail Butun
 - Past external collaborators:
   - foreseeti AB
 - Status: running :green_circle:
